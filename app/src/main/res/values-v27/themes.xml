@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Hesabak" parent="Base.Theme.Hesabak">
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Hesabak" parent="Base.Theme.Hesabak">
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+        <item name="android:enforceStatusBarContrast">false</item>
+    </style>
+</resources>

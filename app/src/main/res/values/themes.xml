@@ -1,0 +1,9 @@
+<resources>
+    <style name="Base.Theme.Hesabak" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- أبيض: يمنع وميض داكن عند اختيار الوضع الفاتح (الـ HTML يدير الثيم بنفسه) -->
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+    <style name="Theme.Hesabak" parent="Base.Theme.Hesabak" />
+</resources>
